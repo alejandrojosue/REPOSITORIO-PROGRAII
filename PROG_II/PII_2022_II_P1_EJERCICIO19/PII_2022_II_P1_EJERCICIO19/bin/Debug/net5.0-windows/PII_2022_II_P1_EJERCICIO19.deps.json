@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PII_2022_II_P1_EJERCICIO19/1.0.0": {
+        "runtime": {
+          "PII_2022_II_P1_EJERCICIO19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PII_2022_II_P1_EJERCICIO19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
