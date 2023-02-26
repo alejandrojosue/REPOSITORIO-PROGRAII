@@ -1,0 +1,12 @@
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\bin\Debug\net6.0\patronesDiseno.deps.json
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\bin\Debug\net6.0\patronesDiseno.dll
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\bin\Debug\net6.0\patronesDiseno.pdb
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.AssemblyInfo.cs
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.dll
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\refint\patronesDiseno.dll
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\patronesDiseno.pdb
+C:\Users\Dell Latitude 3400\OneDrive\Escritorio\trabajo\patronesDiseno\patronesDiseno\obj\Debug\net6.0\ref\patronesDiseno.dll
